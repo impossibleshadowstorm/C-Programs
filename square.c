@@ -1,3 +1,17 @@
+
+/*
+ *
+ * PROGRAM TO PRINT THE BELOW PATTERN
+ *
+ *       $ $ $ $ $ 
+ *       $ $ $ $ $
+ *       $ $ $ $ $
+ *       $ $ $ $ $
+ *       $ $ $ $ $
+ *
+ *
+ */
+
 #include<stdio.h>
 
 int main()
